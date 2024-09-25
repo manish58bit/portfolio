@@ -9,7 +9,7 @@
 
 @font-face {
   font-family: "MangataItalic"; /* Name of the font */
-  src: url("fonts/mangataitalic-axv59.otf") format("opentype"); /* Path to the font and format */
+  src: url("mangataitalic-axv59.otf") format("opentype"); /* Path to the font and format */
 }
 
 body {
